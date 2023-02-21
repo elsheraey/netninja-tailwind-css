@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "live-server public",
-    "watch-css": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch ",
+    "watch-css": "tailwindcss -i ./src/styles.css -o ./public/styles.css --watch ",
     "build-css": "tailwindcss build src/styles.css -o public/styles.css",
     "dev": "concurrently 'npm run watch-css' 'npm run start'"
   },
