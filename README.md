@@ -1,5 +1,5 @@
 # netninja-tailwind-css
-My walkhrough for the code project from the [The Net Ninja Tailwind CSS Tutorial](https://youtu.be/bxmDnn7lrnk?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw). 
+My walkhrough for [The Net Ninja Tailwind CSS Tutorial](https://youtu.be/bxmDnn7lrnk?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) project. 
 
 This tutorial covers the basics of Tailwind CSS, including its utility classes, responsive design, and customization options.
 
