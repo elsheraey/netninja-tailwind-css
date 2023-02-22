@@ -17,3 +17,4 @@ My walkthrough for [The Net Ninja Tailwind CSS Tutorial](https://youtu.be/bxmDnn
 - [live-server](https://www.npmjs.com/package/live-server)
 - [concurrently](https://www.npmjs.com/package/concurrently)
 - [tailwindcss](https://v2.tailwindcss.com/docs)
+- [heroicons](https://heroicons.com)
